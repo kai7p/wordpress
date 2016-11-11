@@ -1,0 +1,1 @@
+/opt/persistent/wp-config.php
